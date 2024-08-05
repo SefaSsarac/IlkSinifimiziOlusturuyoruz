@@ -1,0 +1,14 @@
+D:\Yazılım\Repository\IlkSınıfımızıOlusturuyoruz\IlkSınıfımızıOlusturuyoruz\bin\Debug\net8.0\IlkSınıfımızıOlusturuyoruz.exe
+D:\Yazılım\Repository\IlkSınıfımızıOlusturuyoruz\IlkSınıfımızıOlusturuyoruz\bin\Debug\net8.0\IlkSınıfımızıOlusturuyoruz.deps.json
+D:\Yazılım\Repository\IlkSınıfımızıOlusturuyoruz\IlkSınıfımızıOlusturuyoruz\bin\Debug\net8.0\IlkSınıfımızıOlusturuyoruz.runtimeconfig.json
+D:\Yazılım\Repository\IlkSınıfımızıOlusturuyoruz\IlkSınıfımızıOlusturuyoruz\bin\Debug\net8.0\IlkSınıfımızıOlusturuyoruz.dll
+D:\Yazılım\Repository\IlkSınıfımızıOlusturuyoruz\IlkSınıfımızıOlusturuyoruz\bin\Debug\net8.0\IlkSınıfımızıOlusturuyoruz.pdb
+D:\Yazılım\Repository\IlkSınıfımızıOlusturuyoruz\IlkSınıfımızıOlusturuyoruz\obj\Debug\net8.0\IlkSınıfımızıOlusturuyoruz.GeneratedMSBuildEditorConfig.editorconfig
+D:\Yazılım\Repository\IlkSınıfımızıOlusturuyoruz\IlkSınıfımızıOlusturuyoruz\obj\Debug\net8.0\IlkSınıfımızıOlusturuyoruz.AssemblyInfoInputs.cache
+D:\Yazılım\Repository\IlkSınıfımızıOlusturuyoruz\IlkSınıfımızıOlusturuyoruz\obj\Debug\net8.0\IlkSınıfımızıOlusturuyoruz.AssemblyInfo.cs
+D:\Yazılım\Repository\IlkSınıfımızıOlusturuyoruz\IlkSınıfımızıOlusturuyoruz\obj\Debug\net8.0\IlkSınıfımızıOlusturuyoruz.csproj.CoreCompileInputs.cache
+D:\Yazılım\Repository\IlkSınıfımızıOlusturuyoruz\IlkSınıfımızıOlusturuyoruz\obj\Debug\net8.0\IlkSınıfımızıOlusturuyoruz.dll
+D:\Yazılım\Repository\IlkSınıfımızıOlusturuyoruz\IlkSınıfımızıOlusturuyoruz\obj\Debug\net8.0\refint\IlkSınıfımızıOlusturuyoruz.dll
+D:\Yazılım\Repository\IlkSınıfımızıOlusturuyoruz\IlkSınıfımızıOlusturuyoruz\obj\Debug\net8.0\IlkSınıfımızıOlusturuyoruz.pdb
+D:\Yazılım\Repository\IlkSınıfımızıOlusturuyoruz\IlkSınıfımızıOlusturuyoruz\obj\Debug\net8.0\IlkSınıfımızıOlusturuyoruz.genruntimeconfig.cache
+D:\Yazılım\Repository\IlkSınıfımızıOlusturuyoruz\IlkSınıfımızıOlusturuyoruz\obj\Debug\net8.0\ref\IlkSınıfımızıOlusturuyoruz.dll
